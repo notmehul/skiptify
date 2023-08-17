@@ -2,6 +2,7 @@
 # skiptify
 
 Say goodbye to the lame ass Weekend or Drake songs or whichever artist you hate 😸
+
 Skiptify is a simple Bash/OSA Script to automatically skip the songs which you do not want to listen to
 
 ## Installation
